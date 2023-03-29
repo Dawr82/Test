@@ -1,3 +1,3 @@
 if __name__ == "__main__":
     print("Hello world")
-    print("Version 2")
+    print("Version 3")
